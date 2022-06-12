@@ -5,13 +5,14 @@
 
 
 👽 About Me :
-I am a technology enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
 
 - 🎓 Information Science & Engineering undergraduate student.
 
 - :telescope: Intellectually exploring planet Earth.
 
-- :mailbox:How to reach me:
+- :mailbox: How to reach me:
   <div id="badges">
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
