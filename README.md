@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hey there, I'm Nehal! 
+  Hey there! I'm Nehal. 
 </h1>
 
 
