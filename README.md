@@ -1,10 +1,13 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
+</p>
 
 <h1 align="center">
-  Hey, there! I'm Nehal. 
+  Nehal here!! 
 </h1>
 
 
-👽 About Me :
+#### About Me :
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
 
@@ -27,7 +30,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -48,5 +51,6 @@
 
 ---
 
-### :fire: My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH" /></p>
+### My Stats :
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
