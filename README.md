@@ -1,21 +1,10 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200"/>
-</p>
+<h2>Hello, I'm Nehal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px";"></h2>
 
-<h1 align="center">
-  Nehal here!! 
-</h1>
-
-
-#### About Me :
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
-
-- 🎓 Information Science & Engineering undergraduate student.
-
-- :telescope: Intellectually exploring planet Earth.
-
-- :mailbox: How to reach me:
+- 🖥️ A technology enthusiast.
+- 🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
+- 🔭 Intellectually exploring planet Earth.
+- 📫 How to reach me:
+  
   <div id="badges">
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=informational" alt="LinkedIn Badge"/>
@@ -51,6 +40,18 @@
 
 ---
 
-### My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+### My Stats:
+
+<table style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+
+
