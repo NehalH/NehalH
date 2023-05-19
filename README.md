@@ -1,10 +1,10 @@
 <h2>Hello, I'm Nehal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px";"></h2>
 
-- 🖥️ A technology enthusiast.
-- 🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
-- 🛸 Into flying things.
-- 🛠️ I code and build things that make the computer go beep boop beep boop.
-- 📫 How to reach me:
+- ~~🖥️ A technology enthusiast.
+- ~~🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
+- ~~🛸 Into flying things.
+- ~~🛠️ I code and build things that make the computer go beep boop beep boop.
+- ~~📫 How to reach me:
   
   <div id="badges">
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
