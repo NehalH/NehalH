@@ -2,7 +2,8 @@
 
 - 🖥️ A technology enthusiast.
 - 🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
-- 🔭 Intellectually exploring planet Earth.
+- 🛸 Into flying things.
+- 🛠️ I code and build things that make the computer go beep boop beep boop.
 - 📫 How to reach me:
   
   <div id="badges">
