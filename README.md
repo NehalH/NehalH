@@ -40,15 +40,18 @@
 
 <h1></h1>
 
+<!-- Github Stats -->
+  
 ### My Stats:
+<p align="center" >
 
-<table style="border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/G1-k">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
+</a>
+
+
+<a href="https://github.com/G1-k"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+</a>
+
+</p>
