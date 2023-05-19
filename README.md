@@ -3,7 +3,7 @@
 - 🖥️ A technology enthusiast.
 - 🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
 - 🛸 Into flying things.
-- 🛠️ I code and build things that make the computer go beep boop beep boop.
+- 🛠️ I code and build things and make the computer go beep boop beep boop.
 - 📫 How to reach me:
   
 <div id="badges">
@@ -18,7 +18,7 @@
   </a>
 </div>
 
----
+<h1></h1>
 
 ### Languages and Tools :
 <div>
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
----
+<h1></h1>
 
 ### My Stats:
 
