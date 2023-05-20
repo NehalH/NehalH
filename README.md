@@ -20,6 +20,21 @@
 
 <h2></h2>
 
+<h2></h2>
+
+### My Stats:
+
+<table style="border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+    </td>
+  </tr>
+</table>  
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -38,17 +53,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
 </div>
 
-<h2></h2>
-
-### My Stats:
-
-<table style="border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=NehalH&theme=github-dark-blue&hide_border=true" alt="NehalH"/>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=NehalH&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
-    </td>
-  </tr>
-</table>
