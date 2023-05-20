@@ -4,7 +4,7 @@
 - 🎓 Information Science & Engineering undergraduate at [SCEM](https://www.sahyadri.edu.in/).
 - 🛸 Into flying things.
 - 🛠️ I code and build things and make the computer go beep boop beep boop.
-- 📫 Choose your protocol to communicate:
+- 📫 You could reach out to me through:
   
 <div id="badges">
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
@@ -13,11 +13,9 @@
   <a href="mailto:nhosalikar@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
-<!--
   <a href="https://twitter.com/NHosalikar">
     <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
--->
 </div>
 
 <h2></h2>
