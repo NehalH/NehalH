@@ -1,10 +1,10 @@
 <h2>Hello, I'm Nehal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px";"></h2>
   
 - 🖥️ A technology enthusiast.
-- 🎓 Information Science & Engineering undergraduate student at [SCEM](https://www.sahyadri.edu.in/).
+- 🎓 Information Science & Engineering undergraduate at [SCEM](https://www.sahyadri.edu.in/).
 - 🛸 Into flying things.
 - 🛠️ I code and build things and make the computer go beep boop beep boop.
-- 📫 How to reach me:
+- 📫 Choose your protocol to communicate:
   
 <div id="badges">
   <a href="https://in.linkedin.com/in/nehal-hosalikar-35535a204">
@@ -13,9 +13,11 @@
   <a href="mailto:nhosalikar@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
   </a>
+<!--
   <a href="https://twitter.com/NHosalikar">
     <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
+-->
 </div>
 
 <h2></h2>
