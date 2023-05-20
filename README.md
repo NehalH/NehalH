@@ -20,8 +20,6 @@
 
 <h2></h2>
 
-<h2></h2>
-
 ### My Stats:
 
 <table style="border-collapse: collapse;">
@@ -34,6 +32,8 @@
     </td>
   </tr>
 </table>  
+
+<h2></h2>
 
 ### Languages and Tools :
 <div>
