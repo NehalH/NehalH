@@ -1,7 +1,7 @@
 <h2>Hello, I'm Nehal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px";"></h2>
   
 - 🖥️ A technology enthusiast.
-- 🎓 Information Science & Engineering undergraduate at [SCEM](https://www.sahyadri.edu.in/).
+- 🎓 Information Science & Engineering undergraduate at [SCEM](https://sahyadri.edu.in/).
 - 🛸 Into flying things.
 - 🛠️ I code and build things and make the computer go beep boop beep boop.
 - 📫 You could reach out to me through:
