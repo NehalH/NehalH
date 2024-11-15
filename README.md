@@ -3,7 +3,6 @@
 - 🚀 A technology enthusiast.
 - 👨🏼‍💻 Product Engineer at [Deloitte](https://www.deloitte.com/global/en.html).
 - 🛸 Into flying things.
-- 🛠️ I code and build things and make the computer go beep boop beep boop.
 - 📫 You could reach out to me through:
   
 <div id="badges">
